@@ -1,7 +1,7 @@
 {
   "name": "chocolitos",
   "version": "0.0.0",
-  "homepage": "https://tomagochito.github.io/CcaoECLATPage",
+  "homepage": "https://tomagochito.github.io/CcaoECLATPage/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
